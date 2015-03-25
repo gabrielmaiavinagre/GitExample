@@ -9,11 +9,8 @@
 import Foundation
 
 class ImprimirOla{
-    
     func imprimir()
     {
-       
-        //imprimir tchhauuuuuu
-        println("Ola????????????????")
+        println("Tchau???")
     }
 }
