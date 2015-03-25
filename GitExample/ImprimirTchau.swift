@@ -12,5 +12,7 @@ class ImprimirTchau{
     func imprimir()
     {
         println("byeee???")
+        println("Tcha   u???")
+
     }
 }
